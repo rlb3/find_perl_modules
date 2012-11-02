@@ -7,9 +7,9 @@ Gem::Specification.new do |gem|
   gem.name          = "find_perl_modules"
   gem.version       = FindPerlModules::VERSION
   gem.authors       = ["Robert Boone"]
-  gem.email         = ["robert.l.boone@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.email         = ["robert@cpanel.net"]
+  gem.description   = %q{Find new perl modules and email about the one's we watch for}
+  gem.summary       = %q{Find perl modules from RSS Feed}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
